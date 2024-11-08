@@ -1,0 +1,16 @@
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: system-ui;
+}
+
+main img {
+    width: 400px;
+    border-radius: 5%;
+    box-shadow: 0 0 10px rgba(0, 0, 0)
+
+}
